@@ -7,4 +7,4 @@
 
 现在2026年，LLM走向成熟，我们完全可以只要Prompt+Tools即可调出来我当时写PyBot效果了
 
-现在这个项目是根据 [OpenClaw](https://openclaw.ai/) 建立的，OpenClaw 是一个机器人框架，提供了Skills管理等等功能，正得益于 OpenClaw + LLM成熟，ATRI重新又被我调出来了
+现在这个项目是根据 [OpenClaw](https://openclaw.ai/) 建立的，OpenClaw 是一个机器人框架，提供了Skills管理等等功能，使用OpenAI GPT-5.2模型，正得益于 OpenClaw + LLM成熟，ATRI重新又被我调出来了
